@@ -1,0 +1,1298 @@
+[
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 56000,
+      "f_color": 5,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 100,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 42000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 83000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 30000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 20000,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 60000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 83000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 53400,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 64851,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 35000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 28500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 77000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 57841,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 30000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 58241,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 42000,
+      "f_color": 6,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 61000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 28500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 75000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 95300,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 59000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 119000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 24500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 61000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 37500,
+      "f_color": 2,
+      "g_body_condition": 2,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 32000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 65500,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 33500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 40000,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 25900
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 68000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 31500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 64000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 49000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 38000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33750
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 99000,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 27000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 94000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 28000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 125521,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 124000,
+      "f_color": 6,
+      "g_body_condition": 2,
+      "z_price": 17500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 14000,
+      "f_color": 1,
+      "g_body_condition": 2,
+      "z_price": 45000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 76000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 27000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 50000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 27000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 95000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 39000,
+      "f_color": 6,
+      "g_body_condition": 3,
+      "z_price": 27999
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 49000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 59500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 104000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 22500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 16660,
+      "f_color": 1,
+      "g_body_condition": 2,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 43200,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 33500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 125000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 21000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 28000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 54000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 45000,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 76000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 24500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 69000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 42250,
+      "f_color": 5,
+      "g_body_condition": 2,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 28000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 50000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 59000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 32999
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 47500,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 27800,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 49000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 103000,
+      "f_color": 4,
+      "g_body_condition": 1,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 24000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 37000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 40000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 27500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 75000,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 90100,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 29500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 67000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 98508,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 26500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 135000,
+      "f_color": 5,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 41000,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 100000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 121000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 24500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 87000,
+      "f_color": 7,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 64000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 100,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 41000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 6000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 42000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 15426,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 27000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 82000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 82000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 63000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 37500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 105000,
+      "f_color": 5,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 80000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 26000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 82655,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 140000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 21500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 138000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 75000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 38000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 22000,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 60689,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 36000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 82000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 24999
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 43000,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 70000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 24000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 30000,
+      "f_color": 7,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 16000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 33000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 112000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 23500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 22000,
+      "f_color": 1,
+      "g_body_condition": 2,
+      "z_price": 38000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 46000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 60000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 42500,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 28900
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 49000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 105000,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 26000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 150000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 23500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 117000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 28000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 32005,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 46000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 38000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 112000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 23500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 27560,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 82000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 17267,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 13288,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 41900
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 19000,
+      "f_color": 3,
+      "g_body_condition": 3,
+      "z_price": 38000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 80000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 36930,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 37753
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 39500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 71698,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 32501
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 99500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 56000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 210000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 40000,
+      "f_color": 0,
+      "g_body_condition": 2,
+      "z_price": 35000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 39500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 39500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 33500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 51241,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 35500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 27000,
+      "f_color": 6,
+      "g_body_condition": 3,
+      "z_price": 32500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 58545,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 82000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 25500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 158000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 54075,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 38302
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 61253,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 29000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 43844,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 38955
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 100000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 23500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 59000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 90000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 0,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 39000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 35000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 35500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 80000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 26500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 77777,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 20000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 21000,
+      "f_color": 6,
+      "g_body_condition": 3,
+      "z_price": 26800
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 32500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 26900
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 63500,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 26500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 30500,
+      "f_color": 0,
+      "g_body_condition": 3,
+      "z_price": 38000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 30000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 20000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 28000,
+      "f_color": 3,
+      "g_body_condition": 2,
+      "z_price": 27000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 46000,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 29500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 24480,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 41000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 131000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 25000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 30000,
+      "f_color": 6,
+      "g_body_condition": 3,
+      "z_price": 50000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 59000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 34000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 31500,
+      "f_color": 4,
+      "g_body_condition": 3,
+      "z_price": 36000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2013,
+      "d_mileage": 108000,
+      "f_color": 1,
+      "g_body_condition": 3,
+      "z_price": 20700
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 16000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 38500
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2015,
+      "d_mileage": 40000,
+      "f_color": 2,
+      "g_body_condition": 3,
+      "z_price": 40000
+   },
+   {
+      "a_make": 32,
+      "b_model": 102,
+      "c_year": 2014,
+      "d_mileage": 110000,
+      "f_color": 1,
+      "g_body_condition": 2,
+	  "z_price": null
+   }
+]
