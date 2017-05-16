@@ -1289,10 +1289,10 @@
    {
       "a_make": 32,
       "b_model": 102,
-      "c_year": 2014,
-      "d_mileage": 110000,
+      "c_year": 2015,
+      "d_mileage": 200000,
       "f_color": 1,
-      "g_body_condition": 2,
-	  "z_price": null
+      "g_body_condition": 0,
+	  "z_price": 0
    }
 ]
