@@ -86,7 +86,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10, random
 # print(clf.score(X_test_scaled, y_test))
 
 
-lr = LogisticRegression()
+lr = LogisticRegression(solver='lbfgs', multi_class='auto')
 lr.fit(X_train, y_train)
 prediction = lr.predict(X_test)
 print('{"price": '+str(prediction[0])+"}")
